@@ -1,0 +1,26 @@
+{
+  "name": "badcat",
+  "version": "1.0.0",
+  "description": "A Node.js ranking system for amyamok's furbabies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smonette/badcat.git"
+  },
+  "author": "steph monette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smonette/badcat/issues"
+  },
+  "homepage": "https://github.com/smonette/badcat",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "nodemon": "^1.8.1"
+  }
+}
